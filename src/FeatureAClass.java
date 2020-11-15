@@ -1,4 +1,9 @@
 public class FeatureAClass {
-    // love
-    //finished
+
+    public static void main(String[] args) {
+        // love
+        //finished
+    }
+
+
 }

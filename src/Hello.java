@@ -6,5 +6,6 @@ public class Hello {
         System.out.println("Java");
 
         // line 1
+        // line 2
     }
 }
